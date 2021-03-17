@@ -25,7 +25,7 @@ Maestoso initially began with an idea for a software that allowed users to const
 - Methods that tackle ornamentations and articulations more accurately and creatively 
 - Support for lyrics: bind text to other musical features and have more control 
 - Advanced harmonic analysis and manipulations: retrieve information specific to chord functions and provide methods to manipulate animations to them 
-- Support for different musical forms: support for musical forms such as fugues, raps and etc where their distinctive stylistic traits are better highlight, i.e, rhyme scheme analysis, melodic transformations and etc can be better animated. 
+- Support for different musical forms: support for musical forms such as fugues, raps and etc where their distinctive stylistic traits are better highlighted, i.e, rhyme scheme analysis, melodic transformations and etc can be better animated. 
 
 
 ## Documentation 
