@@ -22,5 +22,6 @@ Maestoso initially began with an idea for a software that allowed users to const
 
 
 ## Documentation 
-The official documentation is hosted on [ReadTheDocs](https://github.com).
+The official documentation is hosted on the Wiki section of the repository. There is documentation for ![users](https://github.com/amanatron/Maestoso/wiki/User-Guide) and there is also documentation available for ![developers](https://github.com/amanatron/Maestoso/wiki/Developer-Guide). 
+
 
