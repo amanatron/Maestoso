@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Maestoso
 
-You can use the [editor on GitHub](https://github.com/amanatron/Maestoso/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="left">
+   <img src="logo.png" width="600" alt="Maestoso Logo">
+  </a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## An Open Source Music Animation Software
 
-### Markdown
+Maestoso creates stunning 2D Animations directly from MIDI files. It currently features 7 customizable themes pertaining to 4 seperate categories of musical information: **Rhythm, Harmony, Melody and Polyphony**. This software also offers in-built methods that make retrieval of MIDI information easy and straightforward, making it easy for contributors to solely focus on theme construction. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center">
+   <img src="GUI-demo.png" width="600" alt="Maestoso Logo">
+  </a>
+</p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Maestoso 2.0 is coming soon! 
 
-1. Numbered
-2. List
+Maestoso initially began with an idea for a software that allowed users to construct their own music animations in a way that gave them enough control to create anything that they could possibly imagine whilst letting the software do all the heavy lifting in terms of syncronisation, information retrieval and coordination of musical information. The current version of Maestoso was a bit of a sidetrack while I was working on the original software. This version borrows many functions from Maestoso 2.0 but doesn't offer the intended flexibility and instead retricts the user to a set of themes. **All of that will change soon!** 
 
-**Bold** and _Italic_ and `Code` text
+### Some of the features currently being developed for Maestoso 2.0: 
+- Give the users more power with themes by letting them design the themes themeselves without having to write a single line of code 
+- Methods that tackle ornamentations and articulations more accurately and creatively 
+- Support for lyrics: bind text to other musical features and have more control 
+- Advanced harmonic analysis and manipulations: retrieve information specific to chord functions and provide methods to manipulate animations to them 
+- Support for different musical forms: support for musical forms such as fugues, raps and etc where their distinctive stylistic traits are better highlighted, i.e, rhyme scheme analysis, melodic transformations and etc can be better animated. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amanatron/Maestoso/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Documentation 
+The official documentation is hosted on [ReadTheDocs](https://github.com).
