@@ -21,7 +21,7 @@ Maestoso creates stunning 2D Animations directly from MIDI files. It currently f
 Maestoso initially began with an idea for a software that allowed users to construct their own music animations in a way that gave them enough control to create anything that they could possibly imagine whilst letting the software do all the heavy lifting in terms of syncronisation, information retrieval and coordination of musical information. The current version of Maestoso was a bit of a sidetrack while I was working on the original software. This version borrows many functions from Maestoso 2.0 but doesn't offer the intended flexibility and instead retricts the user to a set of themes. **All of that will change soon!** 
 
 ### Some of the features currently being developed for Maestoso 2.0: 
-- Give the users more power with themes by letting them design the themeselves without having to write a single line of code 
+- Give the users more power with themes by letting them design the themes themeselves without having to write a single line of code 
 - Methods that tackle ornamentations and articulations more accurately and creatively 
 - Support for lyrics: bind text to other musical features and have more control 
 - Advanced harmonic analysis and manipulations: retrieve information specific to chord functions and provide methods to manipulate animations to them 
