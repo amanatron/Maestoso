@@ -1,10 +1,6 @@
 # Maestoso
 
-<p align="left">
-   <img src="logo.png" width="600" alt="Maestoso Logo">
-  </a>
-</p>
-
+[![Maestoso Logo](https://i.postimg.cc/NMskK3mZ/Screenshot-2021-03-17-at-9-54-33-PM.png)](https://postimg.cc/7CR2cQBN)
 ## An Open Source Music Animation Software
 
 Maestoso creates stunning 2D Animations directly from MIDI files. It currently features 7 customizable themes pertaining to 4 seperate categories of musical information: **Rhythm, Harmony, Melody and Polyphony**. This software also offers in-built methods that make retrieval of MIDI information easy and straightforward, making it easy for contributors to solely focus on theme construction. 
