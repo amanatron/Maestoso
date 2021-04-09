@@ -1,0 +1,10 @@
+
+matplotlib==3.3.4
+mido==1.2.9
+mplcyberpunk==0.1.11
+opencv-python==4.5.1.48
+Pillow==8.1.0
+pretty-midi==0.2.9
+pychord==0.5.1
+tkmacosx==0.1.6
+
